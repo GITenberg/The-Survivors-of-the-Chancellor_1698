@@ -1,5 +1,8 @@
 _repo: The-Survivors-of-the-Chancellor_1698
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Verne, Jules
@@ -20,6 +23,8 @@ description: "The Survivors of the Chancellor: Diary of J. R. Kazallon, Passenge
   \ by Jules Verne about the final voyage of a British sailing ship, the Chancellor,\
   \ told from the perspective of one of its passengers (in the form of a diary).\n\
   \ From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/1698#The-Survivors-of-the-Chancellor
 gutenberg_issued: '1999-04-01'
 gutenberg_type: Text
 identifiers:
